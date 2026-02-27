@@ -1,4 +1,4 @@
-# 🎌 NPL Project 🎌
+# 🧑🏻‍💻 NPL Project 🧑🏻‍💻
 This repository contains a project for a basic NPL model.
 
 ---
@@ -41,4 +41,5 @@ All the data analysis and model construction was done using:
 
 
 ## 🥷 Teamwork
+
 Built together with @[Marius Gören](https://github.com/MariusGoeren)
