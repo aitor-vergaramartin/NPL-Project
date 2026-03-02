@@ -9,7 +9,8 @@ This project follows the guidelines to build a text-classification model to dist
 ## 📁 Project Structure
 - `npl_Project_vf.ipynb`: Jupyter Notebook with the full analysis.
 - `Fake_news_detection.pdf`: PDF presentation summarizing the process.
-- `testing_data.csv`, `training_data.csv` and `new_testing_data.csv` : CSV files containing the datasets used.
+- `testing_data.csv`, `training_data.csv` and `new_testing_data.csv`: CSV files containing the datasets used.
+- `testing_data_with_distilbert.csv`: CSV file containing the predictions made using distilBERT
 
 ## 🗂 Dataset
 - The main dataset was given by Ironhack.
@@ -43,3 +44,4 @@ All the data analysis and model construction was done using:
 ## 🥷 Teamwork
 
 Built together with @[Marius Gören](https://github.com/MariusGoeren)
+
